@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm currently learing to get python certified
+- 🌱 I like to make stuff that solves a problem
+
+
 <!--
 **tybiswal/tybiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
