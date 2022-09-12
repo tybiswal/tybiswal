@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently learing to get python certified
+- 🔭 I'm currently learning to get python certified
 - 🌱 I like to make stuff that solves a problem
 
 
